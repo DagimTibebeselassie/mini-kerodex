@@ -1,0 +1,16 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "model": "Camry",
+      "price": 12000
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "model": "Civic",
+      "price": 15000
+    }
+  ]
+}
